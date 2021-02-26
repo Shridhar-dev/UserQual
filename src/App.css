@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.hero___back{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Collapsible__trigger{
+  font-weight: 700;
+}
+.Collapsible{
+  cursor:pointer;
+  padding: 1rem 0rem 1rem 0rem;
+}
+.footback{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
