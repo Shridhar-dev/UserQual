@@ -37,6 +37,7 @@
   }
 }
 .hero___back{
+  margin-top: -10rem;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;

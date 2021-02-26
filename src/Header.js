@@ -14,7 +14,7 @@ function Header() {
                 <p class="h6" style={{color:'white'}}>(Not included: fake results to please your boss)</p>
                 <br />
                 <div class="py-2" style={{background:'#71CFD7',width:'fit-content',borderRadius:'20rem'}}>
-                    <h6 class="p-0 m-0 py-1 px-5">TRY IT FOR FREE</h6>
+                    <h6 class="p-0 m-0 py-1 px-5" style={{color:'white'}}>TRY IT FOR FREE</h6>
                 </div>
             </div>
             <div class="hero___back">
